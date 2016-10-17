@@ -1,8 +1,8 @@
 ## 記事を追加するとき
-$ hexo new "page title"
+`$ hexo new "page title"`
 
 ## デプロイするとき
-$ hexo deploy
+`$ hexo deploy`
 
-## $ hexo generateは使わない
+## `$ hexo generate`は使わない
 テーマがロードされて悲惨なことになるので実行しない
